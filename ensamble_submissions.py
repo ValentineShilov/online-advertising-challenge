@@ -8,7 +8,7 @@ for file in files:
 for fd in fds:
     header = fd.readline().strip()
     
-with open("final8.csv", "w") as g:
+with open("final7.csv", "w") as g:
     g.write(header + "\n")
     
     flag=True
