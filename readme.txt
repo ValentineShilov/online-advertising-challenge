@@ -1,6 +1,9 @@
 Шилов Валентин
 Решение конкурса Online Advertising Challenge Spring 2020:
 
+Скор: 0.01506 0.01505
+cloud.mail.ru/public/45zd/4AhdDvMEp/
+
 Инструкция по воспроизведению решения:
 1.  разместить train.csv, test.csv в папке со скриптами
 2.  выполнить convert_data.py
